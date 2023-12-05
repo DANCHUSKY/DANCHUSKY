@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DANCHUSKY</h1>
 <h3 align="center">A junior Software Developer.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **danielmorenodoncel8@gmail.com**
 
