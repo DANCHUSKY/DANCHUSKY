@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm DANCHUSKY</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danchusky&label=Profile%20views&color=0e75b6&style=flat" alt="danchusky" /> </p>
 <h3 align="center">A junior Software Developer.</h3>
 
 - 🌱 I’m currently learning **Kotlin**
@@ -27,4 +28,5 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danchusky&show_icons=true&locale=en&layout=compact" alt="danchusky" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danchusky&show_icons=true&locale=en" alt="danchusky" /></p>
