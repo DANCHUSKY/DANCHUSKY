@@ -24,5 +24,6 @@
 </p>
 
 ## Stats
-![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=DANCHUSKY&show_icons=true&show=reviews&theme=react) 
+![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=DANCHUSKY&show_icons=true&show=reviews&theme=react) ![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=BakerIsCoding&show_icons=true&show=reviews&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANCHUSKY&layout=donut&theme=react&size_weight=0.01&count_weight=0.6)
+
 
