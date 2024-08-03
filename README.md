@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danchusky&label=Profile%20views&color=0e75b6&style=flat" alt="danchusky" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- - 🔭 I’m currently working on [TO-DO List](https://github.com/DANCHUSKY/To-Do-List)
   
 ## Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-moreno-doncel-a07131215/)
