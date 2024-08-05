@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danchusky&label=Profile%20views&color=0e75b6&style=flat" alt="danchusky" /> </p>
 
- - 🔭 I’m currently working on [TO-DO List](https://github.com/DANCHUSKY/To-Do-List)
+ - 🔭 I’m currently working on [danchuskyy.com](https://github.com/DANCHUSKY/danchuskyy.com)
  -  📫 How to reach me: danielmorenodoncel8@gmail.com
 
 ## Contact me:
